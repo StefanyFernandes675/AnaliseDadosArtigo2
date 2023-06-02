@@ -4,7 +4,6 @@ O projeto busca:
 1. Encontrar os crimes mais comuns
 2. Compreender a sazonalidade
 3. Localização dos crimes 
-4. Perfil da vítima.
 
 Artigo sendo desenvolvido na disciplina de Projeto Integrador II.
 
