@@ -23,6 +23,4 @@ Artigo sendo desenvolvido na disciplina de Projeto Integrador II.
  - [pyplot](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
  - [folium](https://python-visualization.github.io/folium/)
 
-## 🚧 Em construção
-
 
