@@ -32,5 +32,5 @@ Artigo sendo desenvolvido na disciplina de Projeto Integrador II.
  - [pandas](https://pandas.pydata.org/)
  - [pyplot](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
  - [folium](https://python-visualization.github.io/folium/)
-
+ - [Power BI](https://powerbi.microsoft.com/pt-br/)
 
