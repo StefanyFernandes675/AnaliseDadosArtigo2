@@ -13,7 +13,8 @@
 O projeto busca: 
 1. Encontrar os crimes mais comuns
 2. Compreender a sazonalidade
-3. Localização dos crimes 
+3. Localização dos crimes
+4. Descobrir quais são as 5 cidades com maior taxa de ocorrência de um determinado crime
 
 Artigo sendo desenvolvido na disciplina de Projeto Integrador II.
 
